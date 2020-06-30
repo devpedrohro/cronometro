@@ -1,0 +1,19 @@
+C:\Users\Pedro Henrique Rocha\source\repos\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+C:\Users\Pedro Henrique Rocha\source\repos\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\Pedro Henrique Rocha\source\repos\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\Pedro Henrique Rocha\source\repos\Cronometro\Cronometro\obj\Debug\Cronometro.csprojAssemblyReference.cache
+C:\Users\Pedro Henrique Rocha\source\repos\Cronometro\Cronometro\obj\Debug\Cronometro.Form1.resources
+C:\Users\Pedro Henrique Rocha\source\repos\Cronometro\Cronometro\obj\Debug\Cronometro.Properties.Resources.resources
+C:\Users\Pedro Henrique Rocha\source\repos\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.cache
+C:\Users\Pedro Henrique Rocha\source\repos\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Henrique Rocha\source\repos\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+C:\Users\Pedro Henrique Rocha\source\repos\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
+E:\projetos\c#\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+E:\projetos\c#\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+E:\projetos\c#\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+E:\projetos\c#\Cronometro\Cronometro\obj\Debug\Cronometro.csprojAssemblyReference.cache
+E:\projetos\c#\Cronometro\Cronometro\obj\Debug\Cronometro.Form1.resources
+E:\projetos\c#\Cronometro\Cronometro\obj\Debug\Cronometro.Properties.Resources.resources
+E:\projetos\c#\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.cache
+E:\projetos\c#\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+E:\projetos\c#\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
